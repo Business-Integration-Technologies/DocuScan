@@ -27,7 +27,7 @@ DocuScan is an AI-powered legal document classification and search engine tailor
 | OCR           | Tesseract OCR     |
 | NLP           | spaCy             |
 | Search Engine | Elasticsearch     |
-| Frontend      | React.js (or HTML+JS) |
+| Frontend      |  HTML+JS          |
 | Containerization | Docker, Docker Compose |
 
 ---
